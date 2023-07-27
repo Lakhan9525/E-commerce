@@ -42,7 +42,7 @@ I have used React,node.js,express.js,mongodb Chakra, JS, Html, Css to made this 
 <hr>
 
 # Contributer:-
-- Lakhan9525
--
+- [Lakhan9525](https://github.com/Lakhan9525)
+
 
 - ## <span style="color:green"> Thank You </span>
